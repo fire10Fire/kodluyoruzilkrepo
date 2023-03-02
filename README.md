@@ -1,5 +1,8 @@
 # kodluyoruzilkrepo
 kodluyoruz eğitimi kapsamında açtığım ilk repo
+
+![Ekran Alıntısı2](https://user-images.githubusercontent.com/126313214/222526331-7e5b835d-1255-4c41-aff0-549d387e934f.PNG)
+
 ## installation
 öncelikle projeyi clonelayın 
 ```
