@@ -11,3 +11,4 @@ projeyi clone ladıktan sonra visual studio code programında açınız
 pull requester kabul edilir.Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 ## licence
 
+[MIT](https://choosealicense.com/licenses/mit/)
